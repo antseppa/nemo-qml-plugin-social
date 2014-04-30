@@ -48,5 +48,6 @@ HEADERS += \
 
 include(facebook/facebook.pri)
 include(twitter/twitter.pri)
+include(vk/vk.pri)
 
 OTHER_FILES += qmldir social.qdoc social.qdocconf
